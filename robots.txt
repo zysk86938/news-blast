@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap:https://news-blast.vercel.app/sitemap.xml
+Sitemap:https://news-blast.vercel.app/sitemap-1.xml
+Sitemap:https://news-blast.vercel.app/sitemap-2.xml
+Sitemap:https://news-blast.vercel.app/sitemap-3.xml
+Sitemap:https://news-blast.vercel.app/sitemap-4.xml
